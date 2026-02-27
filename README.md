@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarathkumar K</h1>
+<h1 align="center">Hi 👋, I'm jasmin K</h1>
 <h3 align="center">"Student Developer | @ KTU | Creating AI-Driven Learning & Productivity Tools | Web & Mobile Dev Enthusiast"</h3>
 
 <p align="center">
